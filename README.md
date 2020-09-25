@@ -1,9 +1,6 @@
 # DevOpsLab
 In the current scenario, DevOps engineers do not have a structured way to share their ideas and garner improvement suggestions on the same. 
-Creating a wireframe before beginning to code is an industry-accepted practice in software development and DevOpsLab aims to bring the same structured approach to devops operations. 
-
-Therefore, we intend to build an application that will provide an overview of new or existing network architectures and therefore leading to taking informed and 
-calculated decisions.
+Creating a wireframe before beginning to code is an industry-accepted practice in software development and DevOpsLab aims to help teams do the same.
 
 By using DevOpsLab, teams can create mockups of their cloud architectures, efficiently manage their configuration files, discuss the costs with executives and generate reports for their proposed architecture. This can help small scale businesses in planning out their cloud architectures and expected operational costs, and also medium/large scale businesses to restructure/migrate their existing cloud architectures. 
 
@@ -17,7 +14,7 @@ By using DevOpsLab, teams can create mockups of their cloud architectures, effic
 # DevOpsLab Pipeline
 ![pipeline](https://github.com/theadityasam/devopslab/blob/master/images/pipeline.png)
 
-# Mockup of dashboard
+# Mockup of the expected dashboard
 ![dashboard](https://github.com/theadityasam/devopslab/blob/master/images/dashboard.png)
 
 ## References:
