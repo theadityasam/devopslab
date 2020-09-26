@@ -1,5 +1,5 @@
 # DevOpsLab
-In the current scenario, DevOps engineers do not have a structured way to share their ideas and garner improvement suggestions on the same. 
+In the current scenario, development teams trying to design cloud infrastructures do not have a structured way to share their ideas and garner improvement suggestions on the same. 
 Creating a wireframe before beginning to code is an industry-accepted practice in software development and DevOpsLab aims to help teams do the same.
 
 By using DevOpsLab, teams can create mockups of their cloud architectures, efficiently manage their configuration files, discuss the costs with executives and generate reports for their proposed architecture. This can help small scale businesses in planning out their cloud architectures and expected operational costs, and also medium/large scale businesses to restructure/migrate their existing cloud architectures. 
